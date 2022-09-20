@@ -9,6 +9,11 @@ public class Primitive_data_type {
     double f = 123.456; // (64 bit)
     char j = 'f'; //  65_535 (16 bit)
     boolean h = true; // true/false
-    public class
+    public static void mimimi ()
+    {
+        int a=2;
+        double f = 12.5;
+        System.out.println(a+f);
+    }
 }
 
