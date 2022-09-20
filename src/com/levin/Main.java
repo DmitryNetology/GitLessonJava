@@ -4,7 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
         // write your code here
-        System.out.println();
+        New_class new_class = new New_class();
+        Test test = new Test();
+        System.out.println(new_class);
         System.out.println();
     }
 }
